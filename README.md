@@ -1,5 +1,5 @@
 - 👋 Hola, me llamo Franco Pressenda, soy un estudiante de Desarrollo Web Full Stack recientemente recibido del BootCamp Soy Henry
-- 👀 Mis intereses actualmente son el desarrollo web tanto frontend como backend, estoy buscando especializarme en alguno de estos dos
+- 👀 Mis intereses son el desarrollo web tanto frontend como backend, estoy buscando especializarme en alguno de estos dos
 - 🌱 Actualmente estoy buscando solidificar mis conocimientos y realizar proyectos para ampliar mi portfolio
 - 📫Si deseas saber mas sobre mi te dejo los lugares por donde contactarme:
     - Linkedin: https://www.linkedin.com/in/franco-pressenda/ 
